@@ -40,6 +40,11 @@ blockquote{
 	-webkit-box-shadow:  0px 0px 25px 10px #a9a9a9;
     box-shadow:  0px 0px 25px 10px #a9a9a9;
     border-radius: 3px;
+    background-image: -webkit-linear-gradient(left, #07af19 0%, #07af19 0.71%, #ffbb1d 29.69%, #f7413d 58.94%, #4d79e3 100%);
+    background-image: -moz-linear-gradient(left, #07af19 0%, #07af19 0.71%, #ffbb1d 29.69%, #f7413d 58.94%, #4d79e3 100%);
+    background-image: -o-linear-gradient(left, #07af19 0%, #07af19 0.71%, #ffbb1d 29.69%, #f7413d 58.94%, #4d79e3 100%);
+    background-image: -ms-linear-gradient(left, #07af19 0%, #07af19 0.71%, #ffbb1d 29.69%, #f7413d 58.94%, #4d79e3 100%);
+    background-image: linear-gradient(left, #07af19 0%, #07af19 0.71%, #ffbb1d 29.69%, #f7413d 58.94%, #4d79e3 100%);
 
 }
 
